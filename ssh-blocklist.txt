@@ -1,8 +1,8 @@
 # doorknockers - SSH honeypot blocklist (Cowrie @ x3z)
 # SSH brute-force source IPs captured on a honeypot. Plain list, one IP per line.
-# Generated: 2026-07-19T16:45:03Z
+# Generated: 2026-07-19T17:30:03Z
 # Criteria: more than 3 login attempts, seen within 365 days
-# Entries: 628
+# Entries: 629
 #
 1.212.225.99
 1.247.245.61
@@ -574,6 +574,7 @@
 206.82.3.190
 207.219.221.101
 207.244.227.240
+207.254.22.207
 208.96.233.67
 210.0.90.82
 210.4.68.72
